@@ -5,6 +5,7 @@ tags:
   - Java
   - Dev
   - 개발
+  - Java컨벤션
 draft:
 ---
 자바에서는 DTO 와 VO 클래스를 생성하여 데이터 객체를 담거나 사용합니다. 
