@@ -1,12 +1,13 @@
 ---
 title: Java 의 DTO 와 VO
+create: 2024-02-01 20:54
+keyword:
+  - DTO
+  - VO
 tags:
-  - 공부
   - Java
-  - Dev
-  - 개발
-  - Java컨벤션
-draft:
+  - 공부
+  - Area
 ---
 자바에서는 DTO 와 VO 클래스를 생성하여 데이터 객체를 담거나 사용합니다. 
 

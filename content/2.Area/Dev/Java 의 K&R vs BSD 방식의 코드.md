@@ -1,15 +1,17 @@
 ---
 title: Java 의 K&R vs BSD 방식의 코드
+create: 2024-01-30 20:54
+keyword:
+  - K&R
+  - BSD 
+  - convention
 tags:
+  - Java
+  - 공부
   - Area
-  - Dev
-  - 개발
-  - Java컨벤션
-  - java
-draft:
 ---
 
-자바 의 코딩 스타일 중에는 `K&R` 과 `BSD` 방식의 코드 컨벤션이 존재합니다.
+자바 의 코딩 스타일 중에는 `K&R` 과 `BSD` 방식의 코드 컨벤션이 존재합니다. 
 
 ## 코딩 컨벤션
 
@@ -39,8 +41,8 @@ int firstNumber = 1;
 void exampleMethod() {
 
 }
-
 ```
+
 2. 들여쓰기
 	* 탭(tab)을 사용하여 코드 블록을 들여쓰기합니다. 각 레벨의 들여쓰기는 하나의 탭이나 공백 네 칸으로 이루어집니다.
 ```java
