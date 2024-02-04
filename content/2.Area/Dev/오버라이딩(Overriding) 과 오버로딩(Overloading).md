@@ -1,9 +1,13 @@
 ---
-create: 2024-02-03
+title: 오버라이딩(Overriding) 과 오버로딩(Overloading)
+create: 2024-02-03 20:54
+keyword:
+  - Overriding
+  - Overloading
 tags:
   - Java
-  - Dev
-  - 객체지향
+  - 공부
+  - Area
 ---
 
 자바에서는 간단하지만 많이 햇 갈려 하는 단어 두가지가 있다 바로 메서드 의 ``오버로딩(Overloading)`` 과 ``오버라이딩(Overriding)`` 이다.
@@ -137,7 +141,9 @@ public class CarMain {
 * [[오버라이딩(Overriding) 과 오버로딩(Overloading)#^1d5596|오버로딩]] 은 같은 클래스 내부에 여러개의 같은 이름을 정의할수 있는 기술 을 말하며 이를 통해 가독성을 높일수 있다.
 * [[오버라이딩(Overriding) 과 오버로딩(Overloading)| 오버라이딩]] 은 부모클래스 로 부터 상속 받은 메서드를 재정의 할수 있는 기술을 의미하며 객체지향 언어의 특징 중 하나인 다향성을 의미한다.
 
+___
+
 ## 참조
 
-[[https://brunch.co.kr/@kimkm4726/2|대학생을 위한 IT # overloading vs. overriding]]
-[[https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8|김영한의 실전 자바]]
+[대학생을 위한 강의](https://brunch.co.kr/@kimkm4726/2)
+[김영한의 실전 자바](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
